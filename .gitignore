@@ -7,3 +7,8 @@ config.json
 passwords.txt
 database.cfg
 private_settings.json
+.env
+*.config
+passwords.txt
+*.log
+node_modules/
